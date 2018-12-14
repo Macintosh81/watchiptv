@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,DE-RTL 2 .DE
-http://2111.space:25461/admin_102192/IatDVYw6/4834
-#EXTINF:-1,DE-RTL Plus
+
+
 http://2111.space:25461/admin_102192/IatDVYw6/4833
 #EXTINF:-1,DE-SAT.1
 http://2111.space:25461/admin_102192/IatDVYw6/4832
@@ -978,9 +977,8 @@ http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/5412
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/5411
 #EXTINF:-1,rbb DE
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/5410
-#EXTINF:-1,rbb HD DE
-http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/5409
-#EXTINF:-1,RiC DE
+
+
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/5406
 #EXTINF:-1,RTL DE
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/81
